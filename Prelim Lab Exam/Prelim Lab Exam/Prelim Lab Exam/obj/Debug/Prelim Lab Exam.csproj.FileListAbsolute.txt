@@ -1,0 +1,7 @@
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\bin\Debug\Prelim Lab Exam.exe.config
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\bin\Debug\Prelim Lab Exam.exe
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\bin\Debug\Prelim Lab Exam.pdb
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\obj\Debug\Prelim Lab Exam.csprojAssemblyReference.cache
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\obj\Debug\Prelim Lab Exam.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\obj\Debug\Prelim Lab Exam.exe
+C:\Users\student\Documents\Silayan_Comprog\Prelim Lab Exam\Prelim Lab Exam\Prelim Lab Exam\obj\Debug\Prelim Lab Exam.pdb

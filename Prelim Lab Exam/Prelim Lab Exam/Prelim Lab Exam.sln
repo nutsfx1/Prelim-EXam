@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prelim Lab Exam", "Prelim Lab Exam\Prelim Lab Exam.csproj", "{297C68C8-CE9B-40F2-BA2E-F909FA645259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297C68C8-CE9B-40F2-BA2E-F909FA645259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C68C8-CE9B-40F2-BA2E-F909FA645259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C68C8-CE9B-40F2-BA2E-F909FA645259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C68C8-CE9B-40F2-BA2E-F909FA645259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E169CC64-14D4-49D0-8D50-8AF58AF88524}
+	EndGlobalSection
+EndGlobal
